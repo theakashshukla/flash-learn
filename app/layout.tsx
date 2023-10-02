@@ -53,6 +53,7 @@ interface RootLayoutProps {
 //     </html>
 //   );
 // }
+
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <>
