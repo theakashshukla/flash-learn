@@ -5,10 +5,10 @@ export const siteConfig = {
   description:
     "A Quest Learning Platform for Students and Teachers Create Quizz Competition and Learn Together",
   mainNav: [
-    {
-      title: "Home",
-      href: "/",
-    },
+    // {
+    //   title: "Home",
+    //   href: "/",
+    // },
     // {
     //   title: "About",
     //   href: "/about",
